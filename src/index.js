@@ -5,6 +5,7 @@ import App from "./App";
 // import * as serviceWorker from './serviceWorker';
 
 import "leaflet/dist/leaflet.css";
+import "semantic-ui-css/semantic.min.css";
 
 ReactDOM.render(
   <React.StrictMode>

@@ -31,5 +31,4 @@ This application helps in visualistion of the covid status of a country by click
 ## To-do
 
 1. Change the marker shape
-2. Visualisation of data between two countries
-3. Display worldwide statics on whole
+2. Display worldwide statics on whole
