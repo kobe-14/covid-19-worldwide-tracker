@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses React-Leaflet for maps, React plotly for graphs and powered by
+https://corona.lmao.ninja/v2/countries
 
 ## Available Scripts
 
