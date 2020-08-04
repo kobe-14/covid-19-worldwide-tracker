@@ -1,0 +1,26 @@
+.map {
+    height: 100%;
+}
+
+.map-component-wrapper {
+    height: 100vh;
+}
+
+.popup-container {
+    width: 100rem;
+    background-color: black;
+    color: #fff;
+}
+
+.popup-header img {
+    width: 2rem;
+}
+
+.popup-header {
+    display: flex;
+    justify-content: center;
+}
+
+.country-name {
+    font-size: 1rem;
+}
