@@ -22,7 +22,6 @@ const MapComponentRender = () => {
     API.get("/countries")
       .then((res) => {
         setCountries(res.data);
-        console.log("res.data: ", res.data);
         setLoading(false);
       })
       .catch((e) => {
